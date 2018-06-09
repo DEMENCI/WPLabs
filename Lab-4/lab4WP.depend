@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1525878458 source:d:\utm\wp\wp-master\wp laboratories\lab-4\resources.rc
+	<windows.h>
+	"macros.h"
+
+1525878458 d:\utm\wp\wp-master\wp laboratories\lab-4\macros.h
+
+1525878458 source:d:\utm\wp\wp-master\wp laboratories\lab-4\declarations.cpp
+	<iostream>
+	"declarations.h"
+	"macros.h"
+
+1525878458 d:\utm\wp\wp-master\wp laboratories\lab-4\declarations.h
+	<windows.h>
+	<windowsx.h>
+	<tchar.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<math.h>
+	<vector>
+
